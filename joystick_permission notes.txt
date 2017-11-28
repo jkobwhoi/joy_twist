@@ -1,0 +1,6 @@
+jeffob@obrienE5450 ~/catkin_ws $ ls -l /dev/input/js0 
+crw-rw-rw-+ 1 root input 13, 0 Nov 27 21:32 /dev/input/js0
+
+if not
+
+sudo chmod a+rw /dev/input/js0
